@@ -9,7 +9,6 @@ import Education from './pages/Education';
 import Projects from './pages/Projects';
 import Contact from './pages/Contact';
 import './App.css';
-App.js
 
 function App() {
   return (
